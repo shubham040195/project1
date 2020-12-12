@@ -17,7 +17,7 @@ var (
         chartPath string = "/home/shubham_khatri1995/work/helm/charts/mysql"
         kubeconfigPath string = "/home/shubham_khatri1995/.kube/config"
         chartName string = "mysql1"
-        namespaceName string = "rakuten"
+        namespaceName string = "sample"
         kubeContext string = "minikube"
 //      kubeContext string = "gke_thermal-talon-297909_us-central1-c_gocluster-1"
 )
